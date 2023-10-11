@@ -1,0 +1,83 @@
+*{
+  font-family: 'montserrat';
+  box-sizing: border-box;
+  
+}
+
+.bg-white{
+  background: white;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.my-btn{
+  background-color: red;
+  color: white;
+  padding: .5rem 1.5rem;
+  border-radius: 3px;
+}
+
+.popout-body{
+  background-color: red;
+  color: white;
+  /* color: rgba(128, 128, 128, 0.329); */
+}
+.new{
+  background-color: rgb(190, 0, 190);
+  width: fit-content;
+  color: white;
+  padding: 0 1rem;
+  font-weight: 600;
+}
+.trl{
+  background: linear-gradient(to left, black, transparent);
+
+}
+.filetypes{
+  display: none;
+}
+.trr{
+  background: linear-gradient(to right, black, transparent);
+
+}
+.transline{
+  width: 100%;
+  height: 2px;
+}
+.p{
+  padding: 1rem;
+}
+.plr{
+ padding:0 1.5rem;
+ 
+}
+.ptb{
+ padding-top: .3rem;
+ padding-bottom: .3rem;
+}
+.h-100{
+  height: 100vh;
+}
+.pointer{
+  cursor: pointer
+}
+
+.container{
+  max-width: 1440px;
+  margin: auto;
+}
+.myBox{
+  background:linear-gradient(to right,#b163ff71 , transparent);
+  color: #ff0080d2;
+}
+.image{
+  width: auto;
+  height: 330px;
+
+}
+.links{
+  color: inherit;
+  text-decoration: none;
+}
